@@ -4,7 +4,7 @@
 
 > An interactive React/TypeScript tool demonstrating a fully interpretable machine learning pipeline — from synthetic data generation to prediction and explanation — applied to simulated cognitive profiles.
 
-`React` `TypeScript` `MIT License` `Field: Neuroscience / Explainable AI`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-ff6ec7?style=flat) ![Field](https://img.shields.io/badge/Field-Neuroscience%20%2F%20Explainable%20AI-8f7ea3?style=flat)
 
 ---
 
